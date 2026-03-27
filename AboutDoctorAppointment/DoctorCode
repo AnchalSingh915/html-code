@@ -8,7 +8,7 @@
      <form>
 	     <table cellspacing="2px">
 		      <tr>
-			     <td rowspan="11"><img src="doc.webp" height="650px" width="500px"></td>
+			     <td rowspan="11"><img src="https://codelib.in/html-assignment/doc.png" height="650px" width="500px"></td>
 			     <td colspan="2"><h1 align="center">Doctor Appointment Form</h1>
 				 <hr color="red"/></td> 
 			  </tr>
