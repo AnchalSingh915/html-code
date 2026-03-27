@@ -1,5 +1,1 @@
-This HTML document creates a Doctor Appointment Form that allows patients to schedule a visit conveniently. The form is structured using a table layout, with a doctor’s image displayed on the left side and the input fields arranged neatly on the right.
 
-Users can enter important details such as appointment date and time, full name, gender, phone number, and address. There is also a text area provided for patients to describe their health concerns or queries. Additionally, the form includes multiple checkbox options so users can select the type of appointment they need, such as cervix checkup, heart checkup, eye check-up, or hearing test.
-
-Finally, a submit button is provided to send the entered information. Overall, this form is designed to collect essential patient details in a simple and organized manner for booking a doctor’s appointment.
