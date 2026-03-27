@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+    <title>Question Paper</title>
+</head>
+ <body leftmargin="100px">
+    <h1 align="center">Basic Mathematics Question Paper</h1>
+	
+    <form>
+        
+        <h2>Multiple Choice Questions (Choose One)</h2>
+        
+        <ol>
+            <li>
+                <h4> What is 2<sup>3</sup> + 4<sub>2</sub>?</h4>
+				<ol type="A">
+					<li><input type="radio" name="question1" value="option1"> 4 </li>
+					<li><input type="radio" name="question1" value="option1"> 2 </li>
+					<li><input type="radio" name="question1" value="option1"> 6 </li>
+					<li><input type="radio" name="question1" value="option1"> 1 </li>
+				</ol>
+            </li>
+            <li>
+                <h4> What is 5 - 3?</h4>
+				<ol type="A">
+					<li><input type="radio" name="question2" value="option1"> 4 </li>
+					<li><input type="radio" name="question2" value="option1"> 2 </li>
+					<li><input type="radio" name="question2" value="option1"> 6 </li>
+					<li><input type="radio" name="question2" value="option1"> 1 </li>
+				</ol>
+            </li>
+            <li>
+                <h4> What is 6 x 2?</h4>
+				<ol type="A">
+					<li><input type="radio" name="question3" value="option1"> 4 </li>
+					<li><input type="radio" name="question3" value="option1"> 2 </li>
+					<li><input type="radio" name="question3" value="option1"> 6 </li>
+					<li><input type="radio" name="question3" value="option1"> 1 </li>
+				</ol>
+				
+            </li>
+            <li>
+                <h4>What is 10 ÷ 2?</h4>
+				<ol type="A">
+					<li><input type="radio" name="question3" value="option1"> 4 </li>
+					<li><input type="radio" name="question3" value="option1"> 2 </li>
+					<li><input type="radio" name="question3" value="option1"> 6 </li>
+					<li><input type="radio" name="question3" value="option1"> 5 </li>
+				</ol>
+            </li>
+            <li>
+                <h4>
+                     What is √25?
+                </h4>
+				<ol type="A">
+					<li><input type="radio" name="question3" value="option1"> 4 </li>
+					<li><input type="radio" name="question3" value="option1"> 2 </li>
+					<li><input type="radio" name="question3" value="option1"> 6 </li>
+					<li><input type="radio" name="question3" value="option1"> 5 </li>
+				</ol>
+            </li>
+        </ol>
+        
+        <h2>Select all the correct options.</h2>
+        
+        <ol start="6">
+            <li>
+                <h4>Which of the following are even numbers?</h4>
+				<ol type="A">
+					<li><input type="checkbox"  value="2"> 2</li>
+					<li><input type="checkbox"  value="3"> 3</li>
+					<li><input type="checkbox"  value="4"> 4</li>
+					<li><input type="checkbox"  value="5"> 5</li>
+				</ol>
+            </li>
+			 <li>
+                <h4>Which of the following are Prime numbers?</h4>
+				<ol type="A">
+					<li><input type="checkbox" value="2"> 2</li>
+					<li><input type="checkbox" value="13"> 13</li>
+					<li><input type="checkbox" value="43"> 43</li>
+					<li><input type="checkbox" value="52"> 52</li>
+				</ol>
+            </li>
+        </ol>
+        
+        <h2>Short Answer Questions</h2>
+        
+        <ol start="8">
+            <li>
+                <td>What is the value of π (pi)?</td>
+                <td><input type="text" name="question7_answer"></td>
+            </li>
+            <li>
+                <td>What is the area of a rectangle with length 5 cm and width 3 cm?</td>
+                <td><input type="text" name="question8_answer"></td>
+            </li>
+            <li>
+                <td>Calculate the value of 3<sup>4</sup>.</td>
+                <td><input type="text" name="question9_answer"></td>
+            </li>
+            <li>
+                <td>What is the sum of angles in a triangle?</td>
+                <td><input type="text" name="question10_answer"></td>
+            </li>
+        </ol>
+        <p align="center">
+        <input type="submit" value="Submit">
+        </p>
+    </form>
+    
+</body>
+</html> 
